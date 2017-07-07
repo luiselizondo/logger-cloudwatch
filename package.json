@@ -1,0 +1,15 @@
+{
+	"name": "logger-cloudwatch",
+	"version": "1.0.0",
+	"description": "Node.js Logger module abstraction to cloudwatch via watson",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Luis Elizondo",
+	"license": "MIT",
+	"dependencies": {
+		"winston": "^2.3.1",
+		"winston-aws-cloudwatch": "^1.5.0"
+	}
+}
