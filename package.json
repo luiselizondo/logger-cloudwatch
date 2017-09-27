@@ -1,6 +1,6 @@
 {
 	"name": "logger-cloudwatch",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Node.js Logger module abstraction to cloudwatch via watson",
 	"main": "index.js",
 	"scripts": {
